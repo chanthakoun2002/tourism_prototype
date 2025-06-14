@@ -1,0 +1,59 @@
+
+
+nav h1 {
+  font-size: 1.5rem;
+}
+
+.nav{
+  border-top-style: solid;
+  border-top-width: 1px;
+
+}
+
+.nav-container{
+  width: 60%;
+}
+
+footer {
+  background-color: #363636;
+  color: white;
+}
+
+footer ul li a{
+  color: #CEAA6C;
+  text-decoration: none;
+}
+
+
+footer ul li a:hover{
+  text-decoration: underline;
+}
+
+nav ul li a{
+  color: #CEAA6C;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav ul li a:hover{
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.active{
+ text-decoration: underline;
+ color: #CEAA6C;
+}
+
+.hero-img {
+  height: 500px;
+  object-fit: cover;
+  filter: brightness(70%);
+}
+
+.hero-text {
+  color: white;
+  z-index: 2;
+}
