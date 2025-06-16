@@ -1,4 +1,6 @@
-
+p{
+  font-weight: 300;
+}
 
 nav h1 {
   font-size: 1.5rem;
@@ -56,4 +58,18 @@ nav ul li a:hover{
 .hero-text {
   color: white;
   z-index: 2;
+}
+
+.row-item{
+  margin-bottom: 10vh;
+  
+}
+.row-img {
+  height: 300px;              
+  object-fit: cover;           
+  width: 100%;               
+}
+
+.col img{
+  height: 300px; 
 }
