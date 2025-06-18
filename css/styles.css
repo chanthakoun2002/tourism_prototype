@@ -36,7 +36,6 @@ nav ul li a{
   text-decoration: none;
   font-size: 17px;
   font-weight: 600;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 nav ul li a:hover{
@@ -72,4 +71,9 @@ nav ul li a:hover{
 
 .col img{
   height: 300px; 
+}
+
+.card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
 }
